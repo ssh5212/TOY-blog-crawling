@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>이럴수가 글을 쓰다니..!</title>
+    </head>
+    <body style="text-align: center">
+        <h1>드디어 글썼다!</h1>
+
+        <img src="https://thumbs.gfycat.com/WelldocumentedRequiredBubblefish-size_restricted.gif" alt="" width="30%" height="auto" />
+
+        {% for key, value in result_data | dictsort %}
+        <h3>{{key}}<a href='/redirect_url/{{value["url"]}}'>{{ value["title"] }}</a></h3>
+        {% endfor%}
+    </body>
+</html>
