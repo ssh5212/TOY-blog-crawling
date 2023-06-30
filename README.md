@@ -1,5 +1,7 @@
 # blog-crawling
 
+SSAFY (삼성 청년 SW 아카데미) 계절학기 강의 이수 후 학습한 기능을 활용한 미니 프로젝트
+
 ![9기_대전3반_2팀_신승헌_5](https://github.com/ssh5212/mini-blog-crawling/assets/26498125/f47810e6-673f-44cb-85ee-84d4a7b7ac47)
 ![9기_대전3반_2팀_신승헌_6](https://github.com/ssh5212/mini-blog-crawling/assets/26498125/222688b6-5fe5-4b37-9949-7384e3a85984)
 ![9기_대전3반_2팀_신승헌_7](https://github.com/ssh5212/mini-blog-crawling/assets/26498125/b730f6ee-93f6-4dd4-a9e9-fd85950428f2)
